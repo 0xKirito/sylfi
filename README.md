@@ -6,6 +6,8 @@ Made with Python 3
 
 ## Usage
 
+- `pip install -r requirements.txt`
+
 |  **CLI Flags**  |                         **Information**                         |
 | :-------------: | :-------------------------------------------------------------: |
 |   -h, --help    |                 show this help message and exit                 |
